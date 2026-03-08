@@ -20,8 +20,13 @@ Start the server with:
 node index.js
 
 Once the server is running, open your browser and go to:
-
+```
 http://localhost:3000
+http://localhost:3000/items
+http://localhost:3000/about
+http://localhost:3000/submit
+```
+
 
 ## Project Structure
 ```
