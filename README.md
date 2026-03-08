@@ -24,10 +24,13 @@ Once the server is running, open your browser and go to:
 http://localhost:3000
 
 ## Project Structure
+```
 Basic-IntProg-NodeJS-Activity
 │
-├── public/          # Static files (HTML)
-    ├── index.html
-├── index.js         # Main server file
-├── package.json     # Project dependencies
-└── README.md        # Project documentation
+├── public/                 # Static files (HTML)
+│   └── index.html
+│
+├── index.js                # Main server file
+├── package.json            # Project dependencies
+└── README.md               # Project documentation
+```
